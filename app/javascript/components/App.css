@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  color: rgb(1, 1, 1);
+}
+
+h1 {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(1, 1, 1);
+}
+
+input:focus {
+  outline: 0;
+}
